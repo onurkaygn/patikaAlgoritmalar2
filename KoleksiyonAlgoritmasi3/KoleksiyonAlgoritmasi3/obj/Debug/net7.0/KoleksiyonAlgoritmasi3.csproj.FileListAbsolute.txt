@@ -1,0 +1,14 @@
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\KoleksiyonAlgoritmasi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\KoleksiyonAlgoritmasi3.AssemblyInfoInputs.cache
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\KoleksiyonAlgoritmasi3.AssemblyInfo.cs
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\KoleksiyonAlgoritmasi3.csproj.CoreCompileInputs.cache
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\bin\Debug\net7.0\KoleksiyonAlgoritmasi3.exe
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\bin\Debug\net7.0\KoleksiyonAlgoritmasi3.deps.json
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\bin\Debug\net7.0\KoleksiyonAlgoritmasi3.runtimeconfig.json
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\bin\Debug\net7.0\KoleksiyonAlgoritmasi3.dll
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\bin\Debug\net7.0\KoleksiyonAlgoritmasi3.pdb
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\KoleksiyonAlgoritmasi3.dll
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\refint\KoleksiyonAlgoritmasi3.dll
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\KoleksiyonAlgoritmasi3.pdb
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\KoleksiyonAlgoritmasi3.genruntimeconfig.cache
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar2\KoleksiyonAlgoritmasi3\KoleksiyonAlgoritmasi3\obj\Debug\net7.0\ref\KoleksiyonAlgoritmasi3.dll
